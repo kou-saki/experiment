@@ -40,3 +40,9 @@ The experiment aims to surface reproducible insights for:
 If you want to reproduce this experiment, we recommend:
 - Using the ChatGPT interface (or API) with a prompt structure that encourages max-length generation.
 - Comparing character types across different languages and frequency distributions.
+
+---
+
+## :page_facing_up:	LICENSE
+
+- This project is licensed under the MIT License.
